@@ -16,6 +16,7 @@
 		B411C8601DA4D65200AB1D48 /* NotificationBanner.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B411C85E1DA4D65200AB1D48 /* NotificationBanner.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B4C36EC41DB76D51001DCD8D /* TestController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C36EC31DB76D51001DCD8D /* TestController.swift */; };
 		B4C36EC71DB878A3001DCD8D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4C36EC61DB878A3001DCD8D /* Main.storyboard */; };
+		B4C4F5631DF675F000B788DA /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = B4C4F5621DF675F000B788DA /* demo.gif */; };
 		B4F776791DD338D2001900D9 /* ic_mode_edit_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B4F776781DD338D2001900D9 /* ic_mode_edit_white_3x.png */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		B411C85E1DA4D65200AB1D48 /* NotificationBanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = NotificationBanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4C36EC31DB76D51001DCD8D /* TestController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestController.swift; sourceTree = "<group>"; };
 		B4C36EC61DB878A3001DCD8D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B4C4F5621DF675F000B788DA /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 		B4F776781DD338D2001900D9 /* ic_mode_edit_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_mode_edit_white_3x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,6 +102,7 @@
 		B411C8341DA4D64500AB1D48 /* Example */ = {
 			isa = PBXGroup;
 			children = (
+				B4C4F5621DF675F000B788DA /* demo.gif */,
 				B4F776781DD338D2001900D9 /* ic_mode_edit_white_3x.png */,
 				B411C8351DA4D64500AB1D48 /* AppDelegate.swift */,
 				B411C8371DA4D64500AB1D48 /* ViewController.swift */,
@@ -209,6 +212,7 @@
 			files = (
 				B4C36EC71DB878A3001DCD8D /* Main.storyboard in Resources */,
 				B411C8401DA4D64500AB1D48 /* LaunchScreen.storyboard in Resources */,
+				B4C4F5631DF675F000B788DA /* demo.gif in Resources */,
 				B411C83D1DA4D64500AB1D48 /* Assets.xcassets in Resources */,
 				B4F776791DD338D2001900D9 /* ic_mode_edit_white_3x.png in Resources */,
 			);
