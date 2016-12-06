@@ -36,6 +36,20 @@ Example
        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: NotificationBannerView.Location.Top, messageTitle: "Sucess", messageContent: "This is a Sucess notification")
 
 
+Customization
+----------
+You can show a NotificationBanner instance and configure this properties
+
+* The banner stye(Success, Info, Warning, Error, and Custom banner type)*
+```swift
+bannerStyle: .sucessMessage   //Success style
+bannerStyle: .infoMessage     //Info style
+bannerStyle: .warningMessage  //Warning style
+bannerStyle: .errorMessage    //Error style
+```
+
+
+
 License
 ----------
 
