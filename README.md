@@ -2,7 +2,7 @@ NotificationBanner
 =======
 A foreground notification banner library, easy to use and customizable.
 
-<img src=""  />
+<img src="https://raw.githubusercontent.com/joehour/NotificationBanner/master/Example/Example/demo.gif"  />
 
 Features
 ----------
