@@ -23,19 +23,7 @@ Installation
 
 #### CocoaPods
 
-Check out [Get Started](https://guides.cocoapods.org/using/getting-started.html) tab on [cocoapods.org](http://cocoapods.org/).
-
-To use NotificationBanner in your project add the following 'Podfile' to your project
-
-       source 'https://github.com/joehour/NotificationBanner.git'
-       platform :ios, '8.0'
-       use_frameworks!
-
-       pod 'NotificationBanner', '~> 1.0.0’
-
-Then run:
-
-    pod install
+soon..
 
 
 Example
