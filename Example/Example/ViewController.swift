@@ -25,11 +25,11 @@ class ViewController: UIViewController, NotificationBannerDelegate {
     }
 
     @IBAction func ShowSucessTop(_ sender: AnyObject) {
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: NotificationBannerView.Location.Top,
+        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
                                messageTitle: "Sucess", messageContent: "This is a Sucess notification")
     }
     @IBAction func ShowInfoTop(_ sender: AnyObject) {
-        showNotificationBanner(bannerStyle: .infoMessage, bannerLocation: NotificationBannerView.Location.Top,
+        showNotificationBanner(bannerStyle: .infoMessage, bannerLocation:.Bottom,
                                messageTitle: "Info", messageContent: "This is an info notification")
     }
     @IBAction func ShowErrorTop(_ sender: AnyObject) {

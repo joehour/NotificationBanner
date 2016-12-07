@@ -38,14 +38,20 @@ Example
 
 Customization
 ----------
-You can show a NotificationBanner instance and configure this properties
+You can configure NotificationBanner properties
 
-* The banner stye(Success, Info, Warning, Error, and Custom banner type)*
+* NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)*
 ```swift
 bannerStyle: .sucessMessage   //Success style
 bannerStyle: .infoMessage     //Info style
 bannerStyle: .warningMessage  //Warning style
 bannerStyle: .errorMessage    //Error style
+```
+
+* NotificationBanner location on the view*
+```swift
+bannerLocation: .Top     //Top
+bannerLocation: .Bottom  //Bottom
 ```
 
 
