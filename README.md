@@ -54,6 +54,26 @@ bannerLocation: .Top     //Top
 bannerLocation: .Bottom  //Bottom
 ```
 
+* NotificationBanner title message*
+```swift
+messageTitle: String     //title message
+```
+
+* NotificationBanner content message*
+```swift
+messageContent: String     //content message
+```
+
+* NotificationBanner title string font*
+```swift
+messageTitleFont: CGFloat     //title string font
+```
+
+
+* NotificationBanner content string font*
+```swift
+messageContentFont: CGFloat     //content string font
+```
 
 
 License
