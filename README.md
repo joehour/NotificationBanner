@@ -8,7 +8,7 @@ Features
 ----------
 
 - [x] Provide Success, Info, Warning, Error, and Custom banner type.
-- [x] Adapts itself to the device orientation.
+- [x] Adapt itself to the device orientation.
 - [x] Handle click event.
 
 
