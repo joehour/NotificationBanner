@@ -40,7 +40,7 @@ Customization
 ----------
 You can configure NotificationBanner properties
 
-* NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)*
+* NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)
 ```swift
 bannerStyle: .sucessMessage   //Success style
 bannerStyle: .infoMessage     //Info style
@@ -48,31 +48,41 @@ bannerStyle: .warningMessage  //Warning style
 bannerStyle: .errorMessage    //Error style
 ```
 
-* NotificationBanner location on the view*
+* NotificationBanner location on the view
 ```swift
 bannerLocation: .Top     //Top
 bannerLocation: .Bottom  //Bottom
 ```
 
-* NotificationBanner title message*
+* NotificationBanner title message
 ```swift
 messageTitle: String     //title message
 ```
 
-* NotificationBanner content message*
+* NotificationBanner content message
 ```swift
 messageContent: String     //content message
 ```
 
-* NotificationBanner title string font*
+* NotificationBanner title string font
 ```swift
 messageTitleFont: CGFloat     //title string font
 ```
 
 
-* NotificationBanner content string font*
+* NotificationBanner content string font
 ```swift
 messageContentFont: CGFloat     //content string font
+```
+
+* NotificationBanner Height
+```swift
+bannerHeight: Int     //banner height, default is 80
+```
+
+* NotificationBanner hold time(second)
+```swift
+bannerHoldTime: Int     //banner hold time, default is 5 sec
 ```
 
 
