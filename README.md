@@ -23,7 +23,23 @@ Installation
 
 #### CocoaPods
 
-soon..
+Check out [Get Started](https://guides.cocoapods.org/using/getting-started.html) tab on [cocoapods.org](http://cocoapods.org/).
+
+To use NotificationBanner in your project add the following 'Podfile' to your project
+
+       source 'https://github.com/joehour/NotificationBanner.git'
+       platform :ios, '8.0'
+       use_frameworks!
+
+       pod 'NotificationBanner', '~> 1.0.1'
+
+Then run:
+
+    pod install
+
+#### Source Code
+Copy the NotificationBanner Directory to your project.
+Go ahead and import NotificationBanner to your file.
 
 
 Example
@@ -69,7 +85,7 @@ class ViewController: UIViewController, NotificationBannerDelegate {
 
 Customization
 ----------
-You can configure NotificationBanner properties
+You can configure NotificationBanner properties.
 
 * NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)*
 ```swift
