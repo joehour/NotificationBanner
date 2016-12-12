@@ -40,12 +40,13 @@ Customization
 ----------
 You can configure NotificationBanner properties
 
-* NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)
+* NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)*
 ```swift
 bannerStyle: .sucessMessage   //Success style
 bannerStyle: .infoMessage     //Info style
 bannerStyle: .warningMessage  //Warning style
 bannerStyle: .errorMessage    //Error style
+bannerStyle: .customView      //Custom style
 ```
 
 * NotificationBanner location on the view
@@ -83,6 +84,12 @@ bannerHeight: Int     //banner height, default is 80
 * NotificationBanner hold time(second)
 ```swift
 bannerHoldTime: Int     //banner hold time, default is 5 sec
+```
+
+* If your bannerStyle is .customView(Custom style), you can configure bannerBackgroundColor and bannerImage properties
+```swift
+bannerBackgroundColor: UIColor     //banner background color
+bannerImage: UIImage               //banner icon image
 ```
 
 
