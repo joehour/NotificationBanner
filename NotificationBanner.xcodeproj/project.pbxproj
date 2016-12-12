@@ -12,11 +12,11 @@
 		B411C81E1DA3678D00AB1D48 /* NotificationBanner.h in Headers */ = {isa = PBXBuildFile; fileRef = B411C8101DA3678C00AB1D48 /* NotificationBanner.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B411C8281DA49E9200AB1D48 /* NotificationBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B411C8271DA49E9200AB1D48 /* NotificationBannerView.swift */; };
 		B411C8661DAE2F4900AB1D48 /* NotificationBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = B411C8651DAE2F4900AB1D48 /* NotificationBanner.swift */; };
-		B411C8681DB49FBE00AB1D48 /* ic_done_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B411C8671DB49FBD00AB1D48 /* ic_done_white_3x.png */; };
-		B411C86A1DB49FEF00AB1D48 /* ic_error_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B411C8691DB49FEF00AB1D48 /* ic_error_white_3x.png */; };
-		B411C88C1DB4A01600AB1D48 /* ic_info_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B411C88B1DB4A01600AB1D48 /* ic_info_white_3x.png */; };
-		B411C88E1DB4A03000AB1D48 /* ic_warning_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B411C88D1DB4A03000AB1D48 /* ic_warning_white_3x.png */; };
-		B4C36EC21DB4DD70001DCD8D /* ic_clear_white.png in Resources */ = {isa = PBXBuildFile; fileRef = B4C36EC11DB4DD70001DCD8D /* ic_clear_white.png */; };
+		B456F0BC1DFF1F3800624FD2 /* ic_clear_white.png in Resources */ = {isa = PBXBuildFile; fileRef = B456F0B71DFF1F3800624FD2 /* ic_clear_white.png */; };
+		B456F0BD1DFF1F3800624FD2 /* ic_done_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B456F0B81DFF1F3800624FD2 /* ic_done_white_3x.png */; };
+		B456F0BE1DFF1F3800624FD2 /* ic_error_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B456F0B91DFF1F3800624FD2 /* ic_error_white_3x.png */; };
+		B456F0BF1DFF1F3800624FD2 /* ic_info_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B456F0BA1DFF1F3800624FD2 /* ic_info_white_3x.png */; };
+		B456F0C01DFF1F3800624FD2 /* ic_warning_white_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B456F0BB1DFF1F3800624FD2 /* ic_warning_white_3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,11 +53,11 @@
 		B411C8271DA49E9200AB1D48 /* NotificationBannerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationBannerView.swift; sourceTree = "<group>"; };
 		B411C8551DA4D64600AB1D48 /* Example.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Example.xcodeproj; path = Example/Example.xcodeproj; sourceTree = "<group>"; };
 		B411C8651DAE2F4900AB1D48 /* NotificationBanner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NotificationBanner.swift; sourceTree = "<group>"; };
-		B411C8671DB49FBD00AB1D48 /* ic_done_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_done_white_3x.png; path = ../../../../Downloads/ic_done_white_24dp/ios/ic_done_white.imageset/ic_done_white_3x.png; sourceTree = "<group>"; };
-		B411C8691DB49FEF00AB1D48 /* ic_error_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_error_white_3x.png; path = ../../../../Downloads/ic_error_white_24dp/ios/ic_error_white.imageset/ic_error_white_3x.png; sourceTree = "<group>"; };
-		B411C88B1DB4A01600AB1D48 /* ic_info_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_info_white_3x.png; path = ../../../../Downloads/ic_info_white_24dp/ios/ic_info_white.imageset/ic_info_white_3x.png; sourceTree = "<group>"; };
-		B411C88D1DB4A03000AB1D48 /* ic_warning_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_warning_white_3x.png; path = ../../../../Downloads/ic_warning_white_24dp/ios/ic_warning_white.imageset/ic_warning_white_3x.png; sourceTree = "<group>"; };
-		B4C36EC11DB4DD70001DCD8D /* ic_clear_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_clear_white.png; path = ../../../../Downloads/ic_clear_white_24dp/ios/ic_clear_white.imageset/ic_clear_white.png; sourceTree = "<group>"; };
+		B456F0B71DFF1F3800624FD2 /* ic_clear_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_clear_white.png; sourceTree = "<group>"; };
+		B456F0B81DFF1F3800624FD2 /* ic_done_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_done_white_3x.png; sourceTree = "<group>"; };
+		B456F0B91DFF1F3800624FD2 /* ic_error_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_error_white_3x.png; sourceTree = "<group>"; };
+		B456F0BA1DFF1F3800624FD2 /* ic_info_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_info_white_3x.png; sourceTree = "<group>"; };
+		B456F0BB1DFF1F3800624FD2 /* ic_warning_white_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_warning_white_3x.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,11 +101,11 @@
 		B411C80F1DA3678C00AB1D48 /* NotificationBanner */ = {
 			isa = PBXGroup;
 			children = (
-				B4C36EC11DB4DD70001DCD8D /* ic_clear_white.png */,
-				B411C88D1DB4A03000AB1D48 /* ic_warning_white_3x.png */,
-				B411C88B1DB4A01600AB1D48 /* ic_info_white_3x.png */,
-				B411C8691DB49FEF00AB1D48 /* ic_error_white_3x.png */,
-				B411C8671DB49FBD00AB1D48 /* ic_done_white_3x.png */,
+				B456F0B71DFF1F3800624FD2 /* ic_clear_white.png */,
+				B456F0B81DFF1F3800624FD2 /* ic_done_white_3x.png */,
+				B456F0B91DFF1F3800624FD2 /* ic_error_white_3x.png */,
+				B456F0BA1DFF1F3800624FD2 /* ic_info_white_3x.png */,
+				B456F0BB1DFF1F3800624FD2 /* ic_warning_white_3x.png */,
 				B411C8101DA3678C00AB1D48 /* NotificationBanner.h */,
 				B411C8111DA3678C00AB1D48 /* Info.plist */,
 				B411C8271DA49E9200AB1D48 /* NotificationBannerView.swift */,
@@ -251,11 +251,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B411C88E1DB4A03000AB1D48 /* ic_warning_white_3x.png in Resources */,
-				B411C88C1DB4A01600AB1D48 /* ic_info_white_3x.png in Resources */,
-				B411C8681DB49FBE00AB1D48 /* ic_done_white_3x.png in Resources */,
-				B4C36EC21DB4DD70001DCD8D /* ic_clear_white.png in Resources */,
-				B411C86A1DB49FEF00AB1D48 /* ic_error_white_3x.png in Resources */,
+				B456F0C01DFF1F3800624FD2 /* ic_warning_white_3x.png in Resources */,
+				B456F0BF1DFF1F3800624FD2 /* ic_info_white_3x.png in Resources */,
+				B456F0BD1DFF1F3800624FD2 /* ic_done_white_3x.png in Resources */,
+				B456F0BC1DFF1F3800624FD2 /* ic_clear_white.png in Resources */,
+				B456F0BE1DFF1F3800624FD2 /* ic_error_white_3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
