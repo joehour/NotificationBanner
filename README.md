@@ -45,31 +45,25 @@ class ViewController: UIViewController, NotificationBannerDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        //Show NotificationBanner
         showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
                                messageTitle: "Sucess", messageContent: "This is a Sucess notification")
         
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
+    
+    //NotificationBanner Click Function(required)
     func notificationBannerClick(_ view: NotificationBannerView) {
-
+        
+        //Dissmiss NotificationBanner
         dissmissBanner(completion: { Sucess in _ = Bool()
             if(Sucess){
-                let storyboard = UIStoryboard(name: "Main", bundle: nil)
-                let controller = storyboard.instantiateViewController(withIdentifier: "test") as! TestController
-                self.show(controller, sender: nil)
+              
             }
         }
         )
    
     }
-    
-
 }
 ```
 
