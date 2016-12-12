@@ -13,9 +13,6 @@ class ViewController: UIViewController, NotificationBannerDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
-                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
         
     }
 
@@ -29,7 +26,7 @@ class ViewController: UIViewController, NotificationBannerDelegate {
                                messageTitle: "Sucess", messageContent: "This is a Sucess notification")
     }
     @IBAction func ShowInfoTop(_ sender: AnyObject) {
-        showNotificationBanner(bannerStyle: .infoMessage, bannerLocation:.Bottom,
+        showNotificationBanner(bannerStyle: .infoMessage, bannerLocation:.Top,
                                messageTitle: "Info", messageContent: "This is an info notification")
     }
     @IBAction func ShowErrorTop(_ sender: AnyObject) {
