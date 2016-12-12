@@ -31,10 +31,47 @@ Example
 
 ####Please check out the Example project included.
 
-#####Basic setting:
 
-       showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: NotificationBannerView.Location.Top, messageTitle: "Sucess", messageContent: "This is a Sucess notification")
+Usage
+----------
 
+* Sample:
+
+```swift
+import NotificationBanner
+
+class ViewController: UIViewController, NotificationBannerDelegate {
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
+                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
+        
+    }
+
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+        // Dispose of any resources that can be recreated.
+    }
+
+
+    func notificationBannerClick(_ view: NotificationBannerView) {
+
+        dissmissBanner(completion: { Sucess in _ = Bool()
+            if(Sucess){
+                let storyboard = UIStoryboard(name: "Main", bundle: nil)
+                let controller = storyboard.instantiateViewController(withIdentifier: "test") as! TestController
+                self.show(controller, sender: nil)
+            }
+        }
+        )
+   
+    }
+    
+
+}
+```
 
 Customization
 ----------
@@ -67,13 +104,13 @@ messageContent: String     //content message
 
 * NotificationBanner title string font
 ```swift
-messageTitleFont: CGFloat     //title string font
+messageTitleFont: CGFloat     //title string font, default is 25
 ```
 
 
 * NotificationBanner content string font
 ```swift
-messageContentFont: CGFloat     //content string font
+messageContentFont: CGFloat     //content string font, default is 15
 ```
 
 * NotificationBanner Height
@@ -92,6 +129,9 @@ bannerBackgroundColor: UIColor     //banner background color
 bannerImage: UIImage               //banner icon image
 ```
 
+
+Click event
+----------
 
 License
 ----------

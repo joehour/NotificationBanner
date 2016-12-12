@@ -14,8 +14,8 @@ class ViewController: UIViewController, NotificationBannerDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view, typically from a nib.
-        
+        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
+                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
         
     }
 
