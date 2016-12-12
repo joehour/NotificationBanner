@@ -52,7 +52,7 @@ class ViewController: UIViewController, NotificationBannerDelegate {
     }
 
     
-    //NotificationBanner Click Function(required)
+    //NotificationBanner click event(required)
     func notificationBannerClick(_ view: NotificationBannerView) {
         
         //Dissmiss NotificationBanner
@@ -122,10 +122,6 @@ bannerHoldTime: Int     //banner hold time, default is 5 sec
 bannerBackgroundColor: UIColor     //banner background color
 bannerImage: UIImage               //banner icon image
 ```
-
-
-Click event
-----------
 
 License
 ----------
