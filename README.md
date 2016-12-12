@@ -31,7 +31,7 @@ To use NotificationBanner in your project add the following 'Podfile' to your pr
        platform :ios, '8.0'
        use_frameworks!
 
-       pod 'NotificationBanner', '~> 1.0.2’
+       pod 'NotificationBanner', '~> 1.0.3’
 
 Then run:
 
