@@ -54,6 +54,5 @@ class NotificationBannerTests: XCTestCase {
         showNotificationBanner(bannerStyle: .warningMessage, bannerLocation: NotificationBannerView.Location.Top,
                                messageTitle: "Warning", messageContent: "This is a Warning notification")
     }
-    
-    
+  
 }

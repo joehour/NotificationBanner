@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "103"
-            endingLineNumber = "103"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "82"
-            endingLineNumber = "82">
+            startingLineNumber = "83"
+            endingLineNumber = "83">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -40,11 +40,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
             landmarkName = "init(view:height:bannerLocation:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -56,11 +56,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "87"
-            endingLineNumber = "87"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
             landmarkName = "init(view:height:bannerLocation:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -72,39 +72,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
-            landmarkName = "init(view:height:bannerLocation:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "76"
-            endingLineNumber = "76"
-            landmarkName = "init(view:height:bannerLocation:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499159523.328709"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "61"
@@ -120,11 +88,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "131"
-            endingLineNumber = "131"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "init(view:height:bannerLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationBanner/NotificationBannerView.swift"
+            timestampString = "503390197.658168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "init(view:height:bannerLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationBanner/NotificationBannerView.swift"
+            timestampString = "503390197.658168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
             landmarkName = "setParameter(textContent:textColor:backgroundColor:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -136,11 +136,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "79"
-            endingLineNumber = "79"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
             landmarkName = "init(view:height:bannerLocation:)"
             landmarkType = "7">
             <Locations>
@@ -184,11 +184,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "74"
-            endingLineNumber = "74"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
             landmarkName = "init(view:height:bannerLocation:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -200,11 +200,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
             landmarkName = "init(view:height:bannerLocation:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -216,11 +216,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "122"
-            endingLineNumber = "122"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -232,11 +232,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "123"
-            endingLineNumber = "123"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -248,27 +248,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
-            landmarkName = "show()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "500372109.576221"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "329"
-            endingLineNumber = "329"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -280,11 +264,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "500372109.576221"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "351"
-            endingLineNumber = "351"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -296,11 +280,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "254"
-            endingLineNumber = "254"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -312,11 +296,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499779488.074836"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -328,11 +312,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852454.347969"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -344,11 +328,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "272"
-            endingLineNumber = "272"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -360,11 +344,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499779488.074836"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -376,11 +360,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852454.347969"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -392,11 +376,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "288"
-            endingLineNumber = "288"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -408,11 +392,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499159523.328709"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "64"
-            endingLineNumber = "64"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "init(view:height:bannerLocation:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -424,11 +408,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -440,11 +424,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "300"
-            endingLineNumber = "300"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -456,11 +440,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "227"
-            endingLineNumber = "227"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
             landmarkName = "rotate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -472,11 +456,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "228"
-            endingLineNumber = "228"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
             landmarkName = "rotate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -488,11 +472,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "220"
-            endingLineNumber = "220"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
             landmarkName = "rotate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -504,11 +488,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "220"
-            endingLineNumber = "220"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
             landmarkName = "rotate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -520,11 +504,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "209"
-            endingLineNumber = "209"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
             landmarkName = "rotate()"
             landmarkType = "7">
          </BreakpointContent>
@@ -536,11 +520,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "500375174.887482"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "473"
-            endingLineNumber = "473"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
             landmarkName = "setInitialOrientation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -552,11 +536,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852454.347969"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
             <Locations>
@@ -600,11 +584,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -616,11 +600,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "102"
-            endingLineNumber = "102"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -632,11 +616,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "117"
-            endingLineNumber = "117"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -648,11 +632,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "118"
-            endingLineNumber = "118"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -664,11 +648,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "75"
-            endingLineNumber = "75"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
             landmarkName = "notificationBannerClick(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -680,11 +664,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "500375174.887482"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "480"
-            endingLineNumber = "480"
+            startingLineNumber = "335"
+            endingLineNumber = "335"
             landmarkName = "setInitialOrientation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -696,11 +680,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "266"
-            endingLineNumber = "266"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
             landmarkName = "setBannerContent(style:textTitle:textContent:textColor:bannerLocation:messageTitleFont:messageContentFont:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -711,28 +695,12 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "62"
-            endingLineNumber = "62"
-            landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
-            landmarkType = "9">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "Example/Example/testController.swift"
-            timestampString = "499775400.817206"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
             landmarkName = "notificationBannerClick(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -760,11 +728,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -776,11 +744,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499768566.404782"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
             landmarkName = "show()"
             landmarkType = "7">
          </BreakpointContent>
@@ -792,11 +760,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
             landmarkName = "ShowInfoTop(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -808,11 +776,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "500375174.887482"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "497"
-            endingLineNumber = "497"
+            startingLineNumber = "346"
+            endingLineNumber = "346"
             landmarkName = "cancel(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -824,11 +792,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
             landmarkName = "notificationBannerClick(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -840,11 +808,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "68"
-            endingLineNumber = "68"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
             landmarkName = "notificationBannerClick(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -856,11 +824,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "191"
-            endingLineNumber = "191"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "dissmiss(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -872,11 +840,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499778911.464739"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "177"
-            endingLineNumber = "177"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
             landmarkName = "dissmiss(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -888,11 +856,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499779488.074836"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -904,11 +872,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "56"
-            endingLineNumber = "56"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
             landmarkName = "ShowWarningBottom(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -920,11 +888,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
             landmarkName = "ShowWarningTop(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -936,11 +904,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/ViewController.swift"
-            timestampString = "503261261.294209"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
             landmarkName = "ShowErrorBottom(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -952,11 +920,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "185"
-            endingLineNumber = "185"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
             landmarkName = "dissmiss(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -968,11 +936,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499778911.464739"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
             landmarkName = "dissmiss(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -984,11 +952,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "182"
-            endingLineNumber = "182"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
             landmarkName = "dissmiss(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1000,11 +968,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/TestController.swift"
-            timestampString = "499779555.05416"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
             landmarkName = "ShowSucessTop(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1016,11 +984,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
             <Locations>
@@ -1064,11 +1032,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -1080,11 +1048,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "53"
-            endingLineNumber = "53"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -1096,11 +1064,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -1112,11 +1080,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -1128,11 +1096,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Example/Example/TestController.swift"
-            timestampString = "499851558.345759"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
             landmarkName = "notificationBannerClick(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1144,11 +1112,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBannerView.swift"
-            timestampString = "499852685.816584"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "244"
-            endingLineNumber = "244"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
             landmarkName = "click(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1160,11 +1128,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NotificationBanner/NotificationBanner.swift"
-            timestampString = "499852610.310238"
+            timestampString = "503390197.658168"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
             landmarkName = "showNotificationBanner(bannerStyle:bannerLocation:messageTitle:messageContent:messageTitleFont:messageContentFont:bannerHeight:bannerHoldTime:bannerBackgroundColor:bannerImage:)"
             landmarkType = "9">
             <Locations>
@@ -1199,6 +1167,22 @@
                   offsetFromSymbolStart = "80">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationBanner/NotificationBannerView.swift"
+            timestampString = "503390197.658168"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "NotificationBannerView"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
