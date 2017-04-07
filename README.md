@@ -41,7 +41,7 @@ Go ahead and import NotificationBanner to your file.
 Example
 ----------
 
-####Please check out the Example project included.
+#### Please check out the Example project included.
 
 
 Usage
