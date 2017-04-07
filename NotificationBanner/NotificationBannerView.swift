@@ -22,7 +22,7 @@ open class NotificationBannerView: UIView {
     var imageView: UIImageView! = nil
     var titleView: UITextView! = nil
     var cancelView: UIImageView! = nil
-    open var currentStyle: Style = .sucessMessage
+    open var currentStyle: Style = .successMessage
     var initialBannerHeight: Int = 80
     var currentTitleFont: CGFloat = 25
     var currentContentFont: CGFloat = 16
@@ -42,7 +42,7 @@ open class NotificationBannerView: UIView {
     public enum Style {
         case customView
         case errorMessage
-        case sucessMessage
+        case successMessage
         case infoMessage
         case warningMessage
     }
@@ -129,7 +129,7 @@ open class NotificationBannerView: UIView {
         )
     }
     
-    internal func dissmiss(completion: @escaping (_ Sucess: Bool)->()) {
+    internal func dissmiss(completion: @escaping (_ Success: Bool)->()) {
         dismisssing = true
         UIView.animate(
                withDuration: Double(0.5), delay: 0, options: [.curveEaseInOut, .allowUserInteraction],
@@ -240,7 +240,7 @@ open class NotificationBannerView: UIView {
             self.backgroundColor = .red
             imageView.image = UIImage(contentsOfFile: Bundle(for: NotificationBannerView.self).path(forResource: "ic_error_white_3x", ofType: "png")!)
             break
-        case .sucessMessage:
+        case .successMessage:
             self.backgroundColor = UIColor(red: 0.1, green: 0.7, blue: 0.2, alpha: 1.0)
             imageView.image = UIImage(contentsOfFile: Bundle(for: NotificationBannerView.self).path(forResource: "ic_done_white_3x", ofType: "png")!)
             break
@@ -269,7 +269,7 @@ open class NotificationBannerView: UIView {
             self.backgroundColor = .red
             imageView.image = UIImage(contentsOfFile: Bundle(for: NotificationBannerView.self).path(forResource: "ic_error_white_3x", ofType: "png")!)
             break
-        case .sucessMessage:
+        case .successMessage:
             self.backgroundColor = UIColor(red: 0.1, green: 0.7, blue: 0.2, alpha: 1.0)
             imageView.image = UIImage(contentsOfFile: Bundle(for: NotificationBannerView.self).path(forResource: "ic_done_white_3x", ofType: "png")!)
             break

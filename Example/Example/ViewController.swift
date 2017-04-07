@@ -21,9 +21,9 @@ class ViewController: UIViewController, NotificationBannerDelegate {
         // Dispose of any resources that can be recreated.
     }
 
-    @IBAction func ShowSucessTop(_ sender: AnyObject) {
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
-                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
+    @IBAction func ShowSuccessTop(_ sender: AnyObject) {
+        showNotificationBanner(bannerStyle: .successMessage, bannerLocation: .Top,
+                               messageTitle: "Success", messageContent: "This is a Success notification")
     }
     
     @IBAction func ShowInfoTop(_ sender: AnyObject) {
@@ -41,9 +41,9 @@ class ViewController: UIViewController, NotificationBannerDelegate {
                                messageTitle: "Warning", messageContent: "This is a warning notification")
     }
     
-    @IBAction func ShowSucessBottom(_ sender: AnyObject) {
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: NotificationBannerView.Location.Bottom,
-                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
+    @IBAction func ShowSuccessBottom(_ sender: AnyObject) {
+        showNotificationBanner(bannerStyle: .successMessage, bannerLocation: NotificationBannerView.Location.Bottom,
+                               messageTitle: "Success", messageContent: "This is a Success notification")
     }
     
     @IBAction func ShowInfoBottom(_ sender: AnyObject) {
@@ -70,8 +70,8 @@ class ViewController: UIViewController, NotificationBannerDelegate {
 
     func notificationBannerClick(_ view: NotificationBannerView) {
 
-        dissmissBanner(completion: { Sucess in _ = Bool()
-            if(Sucess){
+        dissmissBanner(completion: { Success in _ = Bool()
+            if(Success){
                 let storyboard = UIStoryboard(name: "Main", bundle: nil)
                 let controller = storyboard.instantiateViewController(withIdentifier: "test") as! TestController
                 self.show(controller, sender: nil)

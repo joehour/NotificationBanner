@@ -175,7 +175,7 @@
 				TargetAttributes = {
 					B411C8311DA4D64500AB1D48 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = Y3YDLKH37F;
+						DevelopmentTeam = ES9333BX3M;
 						ProvisioningStyle = Automatic;
 					};
 					B411C8451DA4D64600AB1D48 = {
@@ -365,6 +365,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = Y3YDLKH37F;
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
@@ -379,6 +380,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = Y3YDLKH37F;
 				INFOPLIST_FILE = Example/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;

@@ -35,9 +35,9 @@ class NotificationBannerTests: XCTestCase {
         }
     }
     
-    func testSucessBanner() {
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: NotificationBannerView.Location.Top,
-                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
+    func testSuccessBanner() {
+        showNotificationBanner(bannerStyle: .successMessage, bannerLocation: NotificationBannerView.Location.Top,
+                               messageTitle: "Success", messageContent: "This is a Success notification")
     }
     
     func testErrorBanner() {

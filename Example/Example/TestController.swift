@@ -23,9 +23,9 @@ class TestController: UIViewController, NotificationBannerDelegate {
         // Dispose of any resources that can be recreated.
     }
     
-    @IBAction func ShowSucessTop(_ sender: AnyObject) {
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: NotificationBannerView.Location.Bottom,
-                               messageTitle: "Sucess", messageContent: "This is a Sucess notification", messageTitleFont: 14, messageContentFont: 10, bannerHeight: 50)
+    @IBAction func ShowSuccessTop(_ sender: AnyObject) {
+        showNotificationBanner(bannerStyle: .successMessage, bannerLocation: NotificationBannerView.Location.Bottom,
+                               messageTitle: "Success", messageContent: "This is a Success notification", messageTitleFont: 14, messageContentFont: 10, bannerHeight: 50)
     }
     
     @IBAction func ShowInfoTop(_ sender: AnyObject) {
@@ -44,8 +44,8 @@ class TestController: UIViewController, NotificationBannerDelegate {
     }
     
     func notificationBannerClick(_ view: NotificationBannerView) {
-        dissmissBanner(completion: { Sucess in _ = Bool()
-            if Sucess {
+        dissmissBanner(completion: { Success in _ = Bool()
+            if Success {
                 let storyboard = UIStoryboard(name:"Main", bundle: nil)
                 let controller = storyboard.instantiateViewController(withIdentifier: "main") as! ViewController
                 self.navigationController?.present(controller, animated: true, completion: {

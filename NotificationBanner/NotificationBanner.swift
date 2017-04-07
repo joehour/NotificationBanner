@@ -33,8 +33,8 @@ public func showNotificationBanner(bannerStyle style: NotificationBannerView.Sty
             setBannerDelegate()
             bannerView.show()
         } else {
-        dissmissBanner(completion: { Sucess in (Bool)()
-            if Sucess {
+        dissmissBanner(completion: { Success in (Bool)()
+            if Success {
                 DispatchQueue.main.async {
                     setContent(bannerStyle: style, bannerLocation: location, messageTitle: title, messageContent: message, messageTitleFont: titleFont, messageContentFont: contentFont, bannerHeight: height, bannerHoldTime: holdTime, bannerBackgroundColor: bannerBackgroundColor, bannerImage: image)
                     
@@ -48,7 +48,7 @@ public func showNotificationBanner(bannerStyle style: NotificationBannerView.Sty
     }
 }
 
-public func dissmissBanner(completion: @escaping (_ Sucess: Bool)->() = { Sucess in (Bool)()}) {
+public func dissmissBanner(completion: @escaping (_ Success: Bool)->() = { Success in (Bool)()}) {
     if bannerView == nil || bannerView.isHidden {
         return
     }

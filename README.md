@@ -58,8 +58,8 @@ class ViewController: UIViewController, NotificationBannerDelegate {
         super.viewDidLoad()
 
         //Show NotificationBanner
-        showNotificationBanner(bannerStyle: .sucessMessage, bannerLocation: .Top,
-                               messageTitle: "Sucess", messageContent: "This is a Sucess notification")
+        showNotificationBanner(bannerStyle: .successMessage, bannerLocation: .Top,
+                               messageTitle: "Success", messageContent: "This is a Success notification")
         
     }
 
@@ -85,7 +85,7 @@ You can configure NotificationBanner properties.
 
 * NotificationBanner style(Success, Info, Warning, Error, and Custom banner type)*
 ```swift
-bannerStyle: .sucessMessage   //Success style
+bannerStyle: .successMessage   //Success style
 bannerStyle: .infoMessage     //Info style
 bannerStyle: .warningMessage  //Warning style
 bannerStyle: .errorMessage    //Error style
