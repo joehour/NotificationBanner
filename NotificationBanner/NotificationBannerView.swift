@@ -168,9 +168,9 @@ open class NotificationBannerView: UIView {
     }
     
     internal func setContentPosition(setHight: Int, setStatusBarHeight: Int ) {
-        self.cancelView.frame = (frame: CGRect(x: Int(view.bounds.width - self.currentHeight * 0.5), y: Int(self.currentHeight * 0.17) + setHight, width: Int(self.currentHeight * 0.55), height: Int(self.currentHeight * 0.55)))
-        self.titleView.frame = (frame: CGRect(x: 20 + Int(self.currentHeight * 0.5), y: 0 + setHight + setStatusBarHeight, width: Int(view.bounds.width - self.currentHeight - 30), height: Int(self.currentHeight * 0.45)))
-        self.textView.frame = (frame: CGRect(x: 20 + Int(self.currentHeight * 0.5), y: Int(self.currentHeight * 0.33) + setHight + setStatusBarHeight, width: Int(view.bounds.width - self.currentHeight - 30), height: Int(self.currentHeight * 0.35)))
+        self.cancelView.frame = (CGRect(x: Int(view.bounds.width - self.currentHeight * 0.5), y: Int(self.currentHeight * 0.17) + setHight, width: Int(self.currentHeight * 0.55), height: Int(self.currentHeight * 0.55)))
+        self.titleView.frame = (CGRect(x: 20 + Int(self.currentHeight * 0.5), y: 0 + setHight + setStatusBarHeight, width: Int(view.bounds.width - self.currentHeight - 30), height: Int(self.currentHeight * 0.45)))
+        self.textView.frame = (CGRect(x: 20 + Int(self.currentHeight * 0.5), y: Int(self.currentHeight * 0.33) + setHight + setStatusBarHeight, width: Int(view.bounds.width - self.currentHeight - 30), height: Int(self.currentHeight * 0.35)))
     }
     
     func click(_ sender: UITapGestureRecognizer) {
@@ -194,9 +194,9 @@ open class NotificationBannerView: UIView {
         if location != currentLocation {
             currentLocation = location
             if currentLocation == .Top {
-               self.frame = (frame: CGRect(x: 0, y: Int(-currentHeight-self.springHeight * 0.33), width: Int(view.bounds.width), height: Int(currentHeight+springHeight * 0.33) ))
+               self.frame = CGRect(x: 0, y: Int(-currentHeight-self.springHeight * 0.33), width: Int(view.bounds.width), height: Int(currentHeight+springHeight * 0.33) )
             } else {
-                self.frame = (frame: CGRect(x: 0, y: Int(view.bounds.height), width: Int(view.bounds.width), height: Int(currentHeight+springHeight) ))
+                self.frame = CGRect(x: 0, y: Int(view.bounds.height), width: Int(view.bounds.width), height: Int(currentHeight+springHeight) )
             }
         }
         
@@ -301,18 +301,18 @@ open class NotificationBannerView: UIView {
         if location != currentLocation {
             currentLocation = location
             if currentLocation == .Top {
-                self.frame = (frame: CGRect(x: 0, y: Int(-currentHeight-self.springHeight * 0.33), width: Int(view.bounds.width), height: Int(currentHeight+springHeight * 0.33) ))
+                self.frame = CGRect(x: 0, y: Int(-currentHeight-self.springHeight * 0.33), width: Int(view.bounds.width), height: Int(currentHeight+springHeight * 0.33) )
             } else {
-                self.frame = (frame: CGRect(x: 0, y: Int(view.bounds.height), width: Int(view.bounds.width), height: Int(currentHeight+springHeight) ))
+                self.frame = CGRect(x: 0, y: Int(view.bounds.height), width: Int(view.bounds.width), height: Int(currentHeight+springHeight) )
             }
         }
         
-        imageView.frame = (frame: CGRect(x: 10, y: Int(currentHeight * 0.17) + fixHeight, width: Int(currentHeight/2), height: Int(currentHeight/2)))
+        imageView.frame = CGRect(x: 10, y: Int(currentHeight * 0.17) + fixHeight, width: Int(currentHeight/2), height: Int(currentHeight/2))
 
-        titleView.frame = (frame: CGRect(x: 20 + Int(currentHeight * 0.5), y: 0 + fixHeight + fixStatusBarHeight, width: Int(view.bounds.width - currentHeight - 30), height: Int(currentHeight*0.4)))
-        textView.frame = (frame: CGRect(x: 20 + Int(currentHeight * 0.5), y: Int(currentHeight * 0.33) + fixHeight + fixStatusBarHeight, width: Int(view.bounds.width - currentHeight - 30), height: Int(currentHeight * 0.35)))
+        titleView.frame = CGRect(x: 20 + Int(currentHeight * 0.5), y: 0 + fixHeight + fixStatusBarHeight, width: Int(view.bounds.width - currentHeight - 30), height: Int(currentHeight*0.4))
+        textView.frame = CGRect(x: 20 + Int(currentHeight * 0.5), y: Int(currentHeight * 0.33) + fixHeight + fixStatusBarHeight, width: Int(view.bounds.width - currentHeight - 30), height: Int(currentHeight * 0.35))
         
-        cancelView.frame = (frame: CGRect(x: Int(view.bounds.width - currentHeight*0.5), y: Int(currentHeight * 0.17) + fixHeight, width: Int(currentHeight * 0.55), height: Int(currentHeight * 0.55)))
+        cancelView.frame = CGRect(x: Int(view.bounds.width - currentHeight*0.5), y: Int(currentHeight * 0.17) + fixHeight, width: Int(currentHeight * 0.55), height: Int(currentHeight * 0.55))
     }
     
     internal func changeFont(messageTitleFont titleFont: CGFloat = 25, messageContentFont contentFont: CGFloat = 16) {
